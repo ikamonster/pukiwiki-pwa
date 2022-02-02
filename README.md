@@ -12,7 +12,9 @@ HTTPS接続時のみ有効です。
 
 ## インストール
 
-pwa.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+下記GitHubページからダウンロードした pwa.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+
+[https://github.com/ikamonster/pukiwiki-pwa](https://github.com/ikamonster/pukiwiki-pwa)
 
 ## 使い方
 
